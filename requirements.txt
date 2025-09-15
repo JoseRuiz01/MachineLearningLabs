@@ -1,0 +1,12 @@
+imageio
+ipykernel
+ipython
+jupyter_core
+matplotlib
+matplotlib-inline
+numpy
+pandas
+pillow
+scikit-image
+scikit-learn
+scipy
